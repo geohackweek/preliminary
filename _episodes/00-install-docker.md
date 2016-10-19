@@ -33,6 +33,12 @@ keypoints:
 
 ### Open a Command Terminal
 
+**Windows**:
+
+**Mac OS X**:
+
+**Linux**:
+
 ### Verify Docker Installation
 
 ```bash
@@ -67,3 +73,5 @@ https://docs.docker.com/userguide/
 ```
 
 ### Install Docker Images for [geohackweek](https://hub.docker.com/u/geohackweek2016/dashboard/)
+
+```bash
