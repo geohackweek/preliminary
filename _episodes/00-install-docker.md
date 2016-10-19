@@ -44,7 +44,7 @@ Press "Ctrl+Alt+T".
 
 ### Verify Docker Installation
 
-Type <code>docker run hello-world</code> in the terminal.
+Type `docker run hello-world` in the terminal.
 
 You should see something similar to the following:
 
@@ -97,7 +97,7 @@ $ docker pull geohackweek2016/rastertutorial
 
 ### View Docker Images
 
-To view the Docker images that have been downloaded, type <code>docker images</code> in the command terminal:
+To view the Docker images that have been downloaded, type `docker images` in the command terminal:
 
 ```bash
 $ docker images
