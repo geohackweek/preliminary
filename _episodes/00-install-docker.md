@@ -1,7 +1,7 @@
 ---
 
 title: "Installing Docker"
-teaching: Complete before the start of geohackweek
+teaching: 0
 exercises: 30
 questions:
 - "What do I need to do to prepare for geohackweek?"
