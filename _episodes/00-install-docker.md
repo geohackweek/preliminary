@@ -34,10 +34,13 @@ keypoints:
 ### Open a Command Terminal
 
 **Windows**:
+Press “Win + X”, and click/tap on Command Prompt, or Command Prompt (Admin) to open it in Administrator mode.
 
 **Mac OS X**:
+Open the Utilities folder inside of the Applications folder and click on "Terminal".
 
 **Linux**:
+Press "Ctrl+Alt+T".
 
 ### Verify Docker Installation
 
