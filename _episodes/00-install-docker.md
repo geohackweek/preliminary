@@ -84,13 +84,16 @@ https://docs.docker.com/userguide/
 Run the following commands in the command terminal.
 
 ```bash
-$ docker pull geohackweek2016/vectortutorial```
+$ docker pull geohackweek2016/vectortutorial
+```
 
 ```bash
-$ docker pull geohackweek2016/arraystutorial```
+$ docker pull geohackweek2016/arraystutorial
+```
 
 ```bash
-$ docker pull geohackweek2016/rastertutorial```
+$ docker pull geohackweek2016/rastertutorial
+```
 
 ### View Docker Images
 
