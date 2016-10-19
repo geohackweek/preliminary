@@ -2,7 +2,7 @@
 
 title: "Installing Docker"
 teaching: Complete before the start of geohackweek
-exercises: 3
+exercises: 30
 questions:
 - "What do I need to do to prepare for geohackweek?"
 - "Do I need to install specific software on my computer?"
