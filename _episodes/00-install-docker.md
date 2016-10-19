@@ -44,6 +44,10 @@ Press "Ctrl+Alt+T".
 
 ### Verify Docker Installation
 
+Type ``docker run hello-world`` in the terminal.
+
+You should see something similar to the following:
+
 ```bash
 $ docker run hello-world
 Unable to find image 'hello-world:latest' locally
@@ -77,4 +81,29 @@ https://docs.docker.com/userguide/
 
 ### Install Docker Images for [geohackweek](https://hub.docker.com/u/geohackweek2016/dashboard/)
 
+Run the following commands in the command terminal.
+
 ```bash
+$ docker pull geohackweek2016/vectortutorial```
+
+```bash
+$ docker pull geohackweek2016/arraystutorial```
+
+```bash
+$ docker pull geohackweek2016/rastertutorial```
+
+### View Docker Images
+
+To view the Docker images that have been downloaded, type ```docker images``` in the command terminal:
+
+```bash
+$ docker images
+REPOSITORY                       TAG                 IMAGE ID            CREATED             SIZE
+geohackweek2016/vectortutorial   latest              10dc49fb7b22        11 days ago         3.658 GB
+geohackweek2016/arraystutorial   latest              246184b7e4b4        13 days ago         2.658 GB
+geohackweek2016/rastertutorial   latest              f8be04b5f1c3        13 days ago         2.905 GB
+continuumio/anaconda3            latest              54c70f303906        2 weeks ago         2.128 GB
+ubuntu                           latest              c73a085dc378        3 weeks ago         127.1 MB
+hello-world                      latest              c54a2cc56cbb        3 months ago        1.848 kB
+>>>
+```
