@@ -10,11 +10,11 @@ kind: "lesson"
 title: "Pre-event Material"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/geohackweek/Preliminary
+repo: https://github.com/geohackweek/preliminary
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/Preliminary"
+root: "/preliminary"
 
 # Contact email address.
 email: arendta@uw.edu
