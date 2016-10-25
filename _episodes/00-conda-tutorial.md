@@ -5,15 +5,12 @@ teaching: 15
 exercises: 0
 questions:
 - "What is Conda?"
-- "How can I use conda in managing all the libraries for my projects" 
+- "How do I install Conda?" 
 objectives:
-- explore how most people currently install and manage python libraries
-- discuss how current methods causes headaches in managing the vast libraries for various projects
+- Get conda installed!
 keypoints:
 - conda can be installed in two ways: Anaconda and Miniconda
 - conda package manager works across systems
-- projects can be separated by individual environments
-- this tool will save headaches when trying to install packages with dependancies or managing multiple libraries/projects
 
 ---
 
@@ -67,90 +64,3 @@ bash miniconda.sh -b
 export PATH=$HOME/miniconda2/bin:$PATH
 conda update --yes --all
 ```
-
-### Using Conda to manage packages and create environment
-The full list of commands for `conda` is listed within `$ conda --help`
-
-- Using `conda`, you can create an *environment* for your project. An environment is a set of packages that can be used in one or multiple projects. The default environment with Anaconda is the root environment, which contains Anaconda default packages listed [here](https://docs.continuum.io/anaconda/pkg-docs)
-  
-  - **Creating an environment**
-
-    An environment can be created in two ways:
-
-    1. An environment file in YAML format (`environment.yml`)
-
-      To install the environment, `myenvironment`:
-
-      ``` bash
-      $ conda env create --file environment.yml
-      ```
-
-    2. Manual specifications of packages
-      To create an environment called `test_env` with packages `numpy`, `matplotlib`, and `pandas` with `python=2.7` from the `conda-forge` channel:
-
-      ``` bash
-      $ conda create -c conda-forge -n test_env python=2.7 numpy matplotlib pandas
-      ```
-
-  - **Using an environment**
-
-    To activate `test_env` environment:
-
-    **OSX and Linux**
-
-    ``` bash
-    $ source activate test_env
-    ```
-
-    **Windows**
-
-    ``` bash
-    $ activate test_env
-    ```
-
-    To deactivate `test_env` environment:
-
-    **OSX and Linux**
-
-    ``` bash
-    $ source deactivate
-    ```
-    **Windows**
-
-    ``` bash
-    $ deactivate
-    ```
-
-    To verify an environment:
-
-    ``` bash
-    $ conda info --envs
-    ```
-
-    The current environment is indicated by (\*) character
-
-  - **Listing available environments**
-
-    To list the environments available to be used:
-
-    ``` bash
-    $ conda env list
-    ```
-
-  - **Listing available packages in an environment**
-
-    To list the packages available to be used in an environment:
-
-    ``` bash
-    $ conda list
-    ```
-
-  - **Removing and environment**
-
-    To remove the `test_env` environment, you have to first deactivate the environment and then type:
-
-    ``` bash
-    $ conda remove -n test_env --all
-    ```
-
-  Note: For further commands about managing an environment go to link [here](http://conda.pydata.org/docs/using/envs.html)
