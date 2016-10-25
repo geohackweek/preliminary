@@ -9,7 +9,7 @@ questions:
 objectives:
 - Get conda installed!
 keypoints:
-- conda can be installed in two ways: Anaconda and Miniconda
+- conda can be installed in two ways (Anaconda and Miniconda)
 - conda package manager works across systems
 
 ---
