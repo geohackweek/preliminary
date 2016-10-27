@@ -67,12 +67,9 @@ This is especially important for Google Earth Engine. *If you are unable to meet
 minimum system requirements above, please let us know. For a few of our tutorials, 
 is likely that we will group you with others since some content will only be deployed on docker.*
 
-In order to get set up with Docker, click on the Episodes in the navigation bar and go to 
-Installing Docker. Once you have gone through, and Docker has been successfully installed
-in your machine, or you are having problems, please let us know in Slack.
+Click [here](https://geohackweek.github.io/preliminary/01-install-docker/) to access the next Episode in this tutorial on installing Docker. Once you have gone through, and Docker has been successfully installed in your machine, or you are having problems, please let us know in Slack.
 
-Continue on to Getting setup with Conda once you have gone through setting up with Docker,
-even if you are unable to install Docker.
+Continue on to "Getting setup with Conda" once you have gone through setting up with Docker, even if you are unable to install Docker.
 
 ### Getting set up with Conda
 
@@ -85,9 +82,7 @@ Here are the system requirements:
 - 32-bit or 64-bit
 - Minimum 3 GB disk space to download and install.
 
-In order to get set up with Conda, click on the Episodes in the navigation bar and go to 
-"Getting started with Conda". Once you have gone through, and Conda has been successfully installed
-in your machine, or you are having problems, please let us know in Slack.
+Click [here](https://geohackweek.github.io/preliminary/02-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
 
 ### Getting setup with Git
 
