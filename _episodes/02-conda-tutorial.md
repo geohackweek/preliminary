@@ -80,32 +80,38 @@ Using Conda, you can install both Python 2.7 and 3.5 using separate environments
 (Details will be explained during the Introductory tutorial).
 
 #### Installing Python 2.7
+
 ``` bash
 $ conda create -n py27 python=2.7
 ```
 
 To use Python 2.7: 
+
 ``` bash
 $ source activate py27
 ```
 
-To check if you have the correct version: 
+To check if you have the correct version:
+ 
 ``` bash
 $ python --version
 ```
 
 
 #### Installing Python 3.5
+
 ``` bash
 $ conda create -n py35 python=3.5
 ```
 
 To use Python 3.5: 
+
 ``` bash
 $ source activate py35
 ```
 
 To check if you have the correct version: 
+
 ``` bash
 $ python --version
 ```
