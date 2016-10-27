@@ -64,3 +64,32 @@ bash miniconda.sh -b
 export PATH=$HOME/miniconda2/bin:$PATH
 conda update --yes --all
 ```
+
+### Installing Python
+During the Geohackweek, each tutorials will have their own Docker image that  
+contains the correct version of Python to go through the tutorial. 
+*If you do not have Docker  or have never encounter this term, 
+please proceed to the Docker preliminary tutorial to get  yourself familiar 
+and set up.*
+
+  We will be using both Python 2.7 and Python 3.5 during the week. 
+Though the two versions  of python are quite similar, they have some syntax 
+differences which you can take a look [here](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html). 
+
+Using Conda, you can install both Python 2.7 and 3.5 using separate environments 
+(Details will be explained during the Introductory tutorial).
+
+#### Installing Python 2.7
+`$ conda create -n py27 python=2.7`
+
+To use Python 2.7: `$ source activate py27`
+
+To check if you have the correct version: `$ python --version`
+
+
+#### Installing Python 3.5
+`$ conda create -n py35 python=3.5`
+
+To use Python 3.5: `source activate py35`
+
+To check if you have the correct version: `$ python --version`
