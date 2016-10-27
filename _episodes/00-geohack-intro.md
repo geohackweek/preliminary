@@ -47,16 +47,16 @@ These are the system requirements necessary to run docker. If your computer does
 
 3. Linux
     - Any of the Distro below:
-    Arch Linux
-    CentOS
-    CRUX Linux
-    Debian
-    Fedora
-    Gentoo
-    Oracle Linux
-    Red Hat Enterprise Linux
-    openSUSE and SUSE Linux Enterprise
-    Ubuntu
+        - Arch Linux
+        - CentOS
+        - CRUX Linux
+        - Debian
+        - Fedora
+        - Gentoo
+        - Oracle Linux
+        - Red Hat Enterprise Linux
+        - openSUSE and SUSE Linux Enterprise
+        - Ubuntu
     - At least 4GB of RAM
        
 ### Getting set up with Docker
@@ -78,7 +78,8 @@ Python libraries with multiple dependencies, so it is critical that you have som
 package management system in place. Conda can be installed in almost any computer.
 
 Here are the system requirements:
-- Windows Vista* or newer, OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
+
+- Windows Vista or newer, OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
 - 32-bit or 64-bit
 - Minimum 3 GB disk space to download and install.
 
