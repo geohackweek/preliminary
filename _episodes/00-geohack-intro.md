@@ -91,7 +91,15 @@ We will update this section shortly.
 
 ### Getting setup with Sage Math Cloud
 
-We will update this section shortly.
+[SageMathCloud](https://cloud.sagemath.com) (SMC) is a cloud computing platform that allows you to create "projects", each of which is a virtual machine running Linux that you can access from any web browser. It has a lot of scientific software installed, including IPython and Jupyter notebooks, and also has other nice tools such as a WYSIWIG Latex editor, for example.
+
+We will create a project that has much of the software needed for the tutorials already installed on it, and then will push a clone of this project to any participant who wants to use it.  If you have a hard time getting some of the software to work on your laptop, this will provide another option for the week.
+
+SMC also makes it easy to collaborate with other participants since you can easily add collaborators to a project and work on the same set of files.
+
+In order to use SMC, the first step is to create a free account on the [SageMathCloud](https://cloud.sagemath.com) site.
+
+We will update this section shortly with more information about how to obtain a clone of the project we will set up for Geohackweek.  Note that we will be purchasing a "course plan" from SMC so that each of these projects can be upgraded to "member hosting" (running on a faster server) and also to give the project internet access (so you can transfer data in and out).  These upgrades will be in effect for 4 months.  Your project will be available "forever" via your free account.  With a [paid subscription](https://cloud.sagemath.com/policies/pricing.html) you can upgrade your account to also maintain member hosting and internet access in the future.
 
 ### Creating an account for Google Earth Engine
 In order to use Google Earth Engine, you need to sign up for the platform 
