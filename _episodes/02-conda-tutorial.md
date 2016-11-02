@@ -32,7 +32,7 @@ Similar to [pip](https://pypi.python.org/pypi/pip), [**conda**](http://conda.pyd
   - [Windows](https://www.continuum.io/downloads#windows)
   - [OSX](https://www.continuum.io/downloads#osx)
   - [Linux](https://www.continuum.io/downloads#linux)
-2. Once Anaconda installation step is finished run `python` in the command line to test if Anaconda is installed correctly.
+2. Once Anaconda installation step is finished run `python` in the command line to test if Anaconda is installed correctly. **Note: For windows, please use Windows powershell as the command line. It should be preinstalled, if not click [here](https://msdn.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell).**
 If Anaconda is installed correctly, you should have this prompt, which emphasizes **Anaconda**:
 
 ```bash
