@@ -95,6 +95,10 @@ $ docker pull geohackweek2016/arraystutorial
 $ docker pull geohackweek2016/rastertutorial
 ```
 
+```bash
+$ docker pull geohackweek2016/vistutorial
+```
+
 ### View Docker Images
 
 To view the Docker images that have been downloaded, type `docker images` in the command terminal:
