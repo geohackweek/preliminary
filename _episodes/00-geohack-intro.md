@@ -87,7 +87,7 @@ Click [here](https://geohackweek.github.io/preliminary/02-conda-tutorial/) to st
 
 ### Getting setup with Git
 
-We will update this section shortly.
+Be sure to arrive at Geohackweek with your own [GitHub](https://github.com/) account.
 
 ### Getting setup with Sage Math Cloud
 
