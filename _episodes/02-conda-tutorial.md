@@ -58,7 +58,7 @@ If you do not have any other installation that is a good option.  If you want to
 You may follow manual steps from http://conda.pydata.org/miniconda.html similar to the instructions on Windows (see above). Alternatively, you can execute these commands on a terminal shell (in this case, the bash shell):
 
 ```bash
-url=http://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
+url=https://repo.continuum.io/miniconda/Miniconda2-4.2.12-Linux-x86_64.sh
 curl $url -o miniconda.sh
 bash miniconda.sh -b
 export PATH=$HOME/miniconda2/bin:$PATH
