@@ -25,7 +25,7 @@ Python software is distributed as a series of *libraries* that are called within
 
 So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Geohackweek.
 
-This year, we will be using [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/) on [Amazon Web Services (AWS) Cloud](https://aws.amazon.com/). JupyterHub is a multi-user Hub that provides multiple instances of the single-user Jupyter notebook server. A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
+This year, we will be using [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/) hosted on [Amazon Web Services (AWS) Cloud](https://aws.amazon.com/). JupyterHub is a multi-user Hub that provides multiple instances of the single-user Jupyter notebook server. A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts. Here's a [overview](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) on JupyterHub.
 
 We also provide instructions for using [Anaconda](https://www.continuum.io), which is our recommended Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
 
