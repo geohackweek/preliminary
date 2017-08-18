@@ -8,16 +8,16 @@ questions:
 - "What version of Python should I install?"
 - "What tools do I need to participate?"
 objectives:
-- Getting students ready for running code on their machines during the geohackweek
+- Getting patricipants ready for running code in the cloud and on their local machines during the geohackweek
 keypoints:
-- we are providing a series of different tools to help you deploy Python efficiently during the hackathon
-- Both Python 2.7 and 3.5 will be used for this hackathon
-- Docker will be used to work with Google Earth Engine and the other tutorials
+- participants will conduct tutorial exercises in a cloud environment
+- everyone is encouraged to arrive with Python installed on their laptop for the project work
+- Both Python 2.7 and 3.6 will be used for this hackathon
 - Conda package manager will be used to install python and other libraries
 
 ---
 
-This tutorial is a preliminary tutorial that we would like you to complete before arriving at Geohackweek. The purpose is to learn about the minimum system requirement for the Geohackweek, install the necessary softwares used during the week, and hopefully answer any other technical question about your computer setup. Our goal is to have everyone up-and-running prior to the event so we can focus our time more productively when you arrive in person.
+This preliminary tutorial is one that we would like you to complete before arriving at Geohackweek. The purpose is to learn about the minimum system requirement for the Geohackweek, install the necessary software used during the week, and hopefully answer any other technical question about your computer setup. Our goal is to have everyone up-and-running prior to the event so we can focus our time more productively when you arrive in person.
 
 ### Overview
 
