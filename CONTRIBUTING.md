@@ -61,6 +61,7 @@ You can [reach us by email][contact].
 
 [ghw-site]: http://geohackweek.github.io
 [contact]: mailto:arendta@uw.edu
+[issues]: https://github.com/geohackweek/preliminary/issues
 [github]: http://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
