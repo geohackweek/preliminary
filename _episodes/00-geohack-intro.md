@@ -41,7 +41,7 @@ Here are the system requirements:
 - 32-bit or 64-bit
 - Minimum 3 GB disk space to download and install.
 
-Click [here](https://geohackweek.github.io/preliminary/02-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
+Click [here](https://geohackweek.github.io/preliminary/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
 
 ### Getting setup with Git
 
