@@ -57,5 +57,11 @@ and be approved as a trusted tester. Getting approved can take 2-3 days,
 so please sign up no later than September 11th to make sure you are approved in time. 
 Click [here](https://geohackweek.github.io/GEE-Python-API/00%20-%20GEE%20Access/) and follow the direction to sign up.
 
+### Brushing up on Python
+
+Given all the geospatial content we hope to cover during geohack week, we will not be able to provide instruction in Python fundamentals. Here are some excellent resources we recommend using to brush up on your Python skills in advance of our event:
+
+* [Software carpentry lessons](https://software-carpentry.org/lessons/), especially the [Python tutorial](http://swcarpentry.github.io/python-novice-inflammation/)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 
 
