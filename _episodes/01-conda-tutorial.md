@@ -15,7 +15,7 @@ keypoints:
 ---
 
 ### What is Conda?
-[**Conda**](http://conda.pydata.org/docs/) is an **open source `package` and `environment` management system for python libraries** for installing multiple versions of software packages, their dependencies and switching easily between them. It works on Linux, OS X and Windows.
+[**Conda**](http://conda.pydata.org/docs/) is an **open source `package` and `environment` management system for any programming languages, but very popular among python community,** for installing multiple versions of software packages, their dependencies and switching easily between them. It works on Linux, OS X and Windows.
 
 ### What is Anaconda?
 [Anaconda](https://www.continuum.io/why-anaconda) is a data science platform that comes with a lot of packages. At the core, Anaconda uses conda package management system.
