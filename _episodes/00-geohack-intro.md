@@ -52,9 +52,8 @@ Be sure to arrive at Geohackweek with your own [GitHub](https://github.com/) acc
 For those who have their Github accounts posted on the [Geohackweek Github Wiki](https://github.com/geohackweek/ghw2017/wiki/Participants), you can try accessing the Jupyterhub server we will be using throughout the program by clicking [here](https://jupyterhub.cloudmaven.org). Make sure you are able to select the Anaconda kernel on the top right corner when you click on the "New" button. You will be logging into Jupyterhub using your Github credentials.
 
 ### Creating an account for Google Earth Engine
-In order to use Google Earth Engine, you need to sign up for the platform 
-and be approved as a trusted tester. 
-Click [here](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the direction to sign up.
+In order to use Google Earth Engine, you need to sign up for the platform. 
+Click [here](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
 
 ### Brushing up on Python
 
