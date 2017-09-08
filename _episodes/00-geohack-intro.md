@@ -53,9 +53,8 @@ For those who have their Github accounts posted on the [Geohackweek Github Wiki]
 
 ### Creating an account for Google Earth Engine
 In order to use Google Earth Engine, you need to sign up for the platform 
-and be approved as a trusted tester. Getting approved can take 2-3 days, 
-so please sign up no later than September 11th to make sure you are approved in time. 
-Click [here](https://geohackweek.github.io/GEE-Python-API/00%20-%20GEE%20Access/) and follow the direction to sign up.
+and be approved as a trusted tester. 
+Click [here](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the direction to sign up.
 
 ### Brushing up on Python
 
