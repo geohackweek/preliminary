@@ -12,8 +12,8 @@ objectives:
 keypoints:
 - participants will conduct tutorial exercises in a cloud environment
 - everyone is encouraged to arrive with Python installed on their laptop for the project work
-- Both Python 2.7 and 3.6 will be used for this hackathon
-- Conda package manager will be used to install python and other libraries
+- there are several different versions of Python, but we will use Python 3.6 for this hackathon
+- Conda package manager will be used to install Python and other libraries
 
 ---
 
