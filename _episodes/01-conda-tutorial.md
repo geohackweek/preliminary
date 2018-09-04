@@ -34,8 +34,8 @@ If Anaconda is installed correctly, you should have this prompt, which emphasize
 
 ```bash
 $ python
-Python 2.7.11 |Anaconda custom (x86_64)| (default, Dec  6 2015, 18:57:58)
-[GCC 4.2.1 (Apple Inc. build 5577)] on darwin
+Python 3.6.4|Anaconda custom (x86_64)| (default, Jan 16 2018, 18:57:58)
+[GCC 7.2.0] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 Anaconda is brought to you by Continuum Analytics.
 Please check out: http://continuum.io/thanks and https://anaconda.org
@@ -63,31 +63,7 @@ conda update conda --yes
 ```
 
 ### Installing Python
-During the Geohackweek, each tutorials will have their own conda environment that contains the correct version of Python to go through the tutorial. 
- We will be using both Python 2.7 and Python 3.5 during the week. 
-Though the two versions of python are quite similar, they have some syntax 
-differences which you can take a look [here](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html). 
-
-Using Conda, you can install both Python 2.7 and 3.5 using separate environments (Details will be explained during the Introductory tutorial).
-
-#### Installing Python 2.7
-
-``` bash
-$ conda create -n py27 python=2.7
-```
-
-To use Python 2.7: 
-
-``` bash
-$ source activate py27
-```
-
-To check if you have the correct version:
- 
-``` bash
-$ python --version
-```
-
+During the Geohackweek, each tutorial will have their own conda environment that contains the correct libraries to carry out the tutorial. 
 
 #### Installing Python 3.6
 
