@@ -107,5 +107,5 @@ For in-depth industry guidance, Google publishes their own definitive [JavaScrip
 Dana Tomlin has also created a short [JavaScript Quick Start Guide](https://drive.google.com/file/d/0B3H1GYZLzLKCckwwVjZfVmdPNDA/view) which only takes a few minutes to work through but hits some of the basics. You can find it clicking that link or by going to the GEE homepage, clicking on the EDU tab in the upper left, and scrolling down to the Geospatial Software Design Exercises section.
 
 <br>
-<img src="../fig/00_spaceland.png" border = "10">
+<img src="../fig/00_spaceland.png" border = "10"></img>
 <br><br>
