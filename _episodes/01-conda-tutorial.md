@@ -30,7 +30,10 @@ If you do not have any other installation that is a good option. If you want to 
 You may follow manual steps from [here](http://conda.pydata.org/miniconda.html) similar to the instructions on Windows (see above). Alternatively, you can execute these commands on a terminal shell (in this case, the bash shell):
 
 ```bash
-url=bit.ly/miniconda3
+# For MacOSX
+url=https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+# For Linux
+url=https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
 wget $url -O miniconda.sh
 bash miniconda.sh -b -p $HOME/miniconda
 export PATH="$HOME/miniconda/bin:$PATH"
