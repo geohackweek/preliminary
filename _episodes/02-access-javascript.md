@@ -30,11 +30,11 @@ Not sure if you have access? Use [this link](https://code.earthengine.google.com
 
 Google Earth Engine allows you to have shared group folders/repositories for scripts. We've organized the code presented in this tutorial this way. Instead of adding each of your emails one at a time (tedious!), you will instead join a google group that will then allow you access to the shared code repository. Please follow these steps:
 
-  - - Join the Geohackweek Google Earth Engine Tutorial Google group by clicking this link [https://goo.gl/JsnWZH](https://goo.gl/JsnWZH). 
+  - Join the Geohackweek Google Earth Engine Tutorial Google group by clicking this link [https://goo.gl/JsnWZH](https://goo.gl/JsnWZH). 
       - Don't worry about posting permissions; we won't  be posting anything.
-      - Best use the same email as your GEE signup email to avoid conflicts later
+      - Best use the same email as your GEE signup email to avoid conflicts later  
       
-  - Accept the shared repository by clicking this [link](https://code.earthengine.google.com/?accept_repo=users/kuhniculous/geohackweek2018)
+  - Accept the shared repository by clicking this link [https://code.earthengine.google.com/?accept_repo=users/kuhniculous/geohackweek2018](https://code.earthengine.google.com/?accept_repo=users/kuhniculous/geohackweek2018).
   
   - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Reader" section. A directory called *geohackweek2018* should appear with read-only versions of the full scripts from each episode.
 
