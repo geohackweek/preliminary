@@ -1,65 +1,75 @@
 ---
 
-title: "Intro and Preparation for Geohackweek"
-teaching: 15
+title: "Intro and Preparation for ICESat-2 Hackweek"
+teaching: 5
 exercises: 0
 questions:
+- "What is the format of this event?"
 - "Will my laptop work for this hackathon?"
-- "What version of Python should I install?"
-- "What tools do I need to participate?"
+- "Will I need to learn a specific programming language to participate?"
+- "What can I do in advance to prepare?"
 objectives:
-- Getting patricipants ready for running code in the cloud and on their local machines during the geohackweek
+- "Getting patricipants ready for running code in the cloud and on their local machines during the hackweek."
 keypoints:
-- participants will conduct tutorial exercises in a cloud environment
-- everyone is encouraged to arrive with Python installed on their laptop for the project work
-- there are several different versions of Python, but we will use Python 3.6 for this hackathon
-- Conda package manager will be used to install Python and other libraries
+- "hackweeks combine interactive tutorials with open project time in a shared learning environment"
+- "everyone will need their own laptop to participate"
+- "we offer all tutorials in the Python programming language"
+- "we require everyone to work through these preliminary tutorials before arriving"
 
 ---
 
-This preliminary tutorial is one that we would like you to complete before arriving at Geohackweek. The purpose is to learn about the minimum system requirement for the Geohackweek, install the necessary software used during the week, and hopefully answer any other technical question about your computer setup. Our goal is to have everyone up-and-running prior to the event so we can focus our time more productively when you arrive in person.
-
 ### Overview
 
-Python software is distributed as a series of *libraries* that are called within your code to perform certain tasks. There are many different collections, or *distributions* of Python software. Generally you install a specific distribution of Python and then add additional libraries as you need them. There are also several different *versions* of Python. The two main versions right now are 2.7 and 3.6. Some libraries only work with specific versions of Python.
+Welcome to the Cryospheric Sciences with ICESat-2 hackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://www.pnas.org/content/115/36/8872) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
 
-So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Geohackweek.
+<br>
+<img src="../files/images/hackweek-mission.png" width = "600" style="border:2px solid black">
+<br>
 
-This year, we will be using a [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/) JupyterHub is a multi-user Hub that provides multiple instances of the single-user Jupyter notebook server. A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts. Here's a [overview](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) on JupyterHub.
+This preliminary tutorial is one that we would like you to complete before arriving to the hackweek. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person. 
 
-We also provide instructions for using [Anaconda](https://www.continuum.io), which is our recommended Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
+### What is the format of this event?
 
-### Getting set up with Conda
+Here is a general roadmap of our event:
 
-[**Conda**](http://conda.pydata.org/docs/) is an **open source `package` and `environment` management system for python libraries**. We will be using various
-Python libraries with multiple dependencies, so it is critical that you have some sort of 
-package management system in place. Conda can be installed in almost any computer.
+* we begin the hackweek with a review of our code of conduct, and we build a set of guidelines for co-creating a positive and welcoming learning environment
+* each morning (and occasionally early afternoons) will involve tutorials and short presentations
+* each afternoon will be time for working on group projects. We'll check-in with project teams on a regular basis to find what's working and where challenges lie.
+* we will guide participants through the formation of groups on day 1
+* there will be opportunities for peer learning and open tutorials on topics of most interest to the group
+* participants will be invited to present their work on day 5 before we depart 
 
-Here are the system requirements:
+### Will my laptop work for this hackathon?
 
-- Windows Vista or newer, OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
+All participants will be required to have their own laptop. The absolute minimum requirement is any laptop with a functioning web browser so that you can access our shared cloud computing resources. We will also teach you to install software on your own computer. For that we recommend the following:
+
+- Windows Vista or newer, MAC OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
 - 32-bit or 64-bit
-- Minimum 3 GB disk space to download and install.
+- Minimum 3 GB disk space to download and install software
 
-Click [here](https://geohackweek.github.io/preliminary/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
+If you do not have a laptop, please contact us and we might be able to loan you one during the event.
 
-### Getting setup with Git
+### Will I need to learn a specific programming language to participate?
 
-Be sure to arrive at Geohackweek with your own [GitHub](https://github.com/) account.
+We welcome all participants regardless of their programming background. In order to teach our content in a consistent way we need to select one programming languge. We have chosen Python because it is free and open source, and has many libraries suitable for efficient manipulation of ICESat-2 data. 
 
-### Getting setup with JupyterHub 
-
-For those who have their Github accounts posted on the [Geohackweek Github Wiki](https://github.com/geohackweek/ghw2018/wiki/Participants), you can try accessing the Jupyterhub server we will be using throughout the program by clicking [here](https://jupyterhub.geohackweek.org). You will be logging into Jupyterhub using your Github credentials. Starting the server will take anywhere from a few seconds to five minutes. Please be patient when the server is loading. 
-
-### Creating an account for Google Earth Engine
-In order to use Google Earth Engine, you need to sign up for the platform. 
-Click [here](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
-
-### Brushing up on Python
-
-Given all the geospatial content we hope to cover during geohack week, we will not be able to provide instruction in Python fundamentals. Here are some excellent resources we recommend using to brush up on your Python skills in advance of our event:
+If you're new to Python, here are some excellent resources we recommend working through in advance of our event:
 
 * [Software carpentry lessons](https://software-carpentry.org/lessons/), especially the [Python tutorial](http://swcarpentry.github.io/python-novice-inflammation/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
+* a collection of a variety of [data science lessons](https://github.com/uwescience/Online-Educational-Resources) developed by the UW eScience Institute
 
+If you're a Python expert, we hope you can use this event as an opportunity to share some of your knowledge with your peers!
+
+### What can I do in advance to prepare?
+
+We require all participants to work through the next 4 lessons in advance of our event. The lessons are brief and will ensure that we are all set up and ready to work when we arrive.
+
+* [Lesson 1](https://icesat-2hackweek.github.io/preliminary/01-Git-setup): setting up a GitHub account
+* [Lesson 2](https://icesat-2hackweek.github.io/preliminary/02-JupyterHub-basics): connecting to our shared cloud computing environment
+* [Lesson 3](https://icesat-2hackweek.github.io/preliminary/03-conda-basics): installing Python on your laptop
+* [Lesson 4](https://icesat-2hackweek.github.io/preliminary/04-Earthdata): getting a NASA Earthdata login
+
+### How do I ask questions about the ICESat-2 Hackweek
+If you have technical or general questions about the Hackweek. Please use the General channel on [Slack](https://icesat2hackweek2019.slack.com/messages/CDQFBU571/)
 
