@@ -47,7 +47,7 @@ Then, click on the big green button and then answer a few required questions. Be
 
 GitHub organizations are a convenient way for teams to get all content relevant to a specific project our workshop into one place. By having everything in one central location you will spend less time searching for hackweek content. GitHub organizations have ``teams'' that offer simple ways to provide respository access to groups of people, rather than individuals.
 
-We have created a GitHub organization called [ICESat-2hackweek](https://github.com/icesat-2hackweek). For security purposes you can only join the organization by invitation. Here are the steps:
+We have created a GitHub organization called [geohackweek](https://github.com/geohackweek). For security purposes you can only join the organization by invitation. Here are the steps:
 
 1. Once you have a GitHub ID, send it to Sheila Ocoma on our Slack channel
 2. We will then find your ID and send you an invitation which should generate an email notification to the email you provided when you signed up for GitHub
@@ -55,9 +55,9 @@ We have created a GitHub organization called [ICESat-2hackweek](https://github.c
 
 ### How should I configure my GitHub account?
 
-As you'll learn in the next lesson, we will use the [ICESat-2hackweek](https://github.com/icesat-2hackweek) GitHub organization as a way to manage access to our cloud computing resources. In order for this to work each person must have public, rather than private membership in the ICESat-2hackweek organization.
+As you'll learn in the next lesson, we will use the [geohackweek](https://github.com/geohackweek) GitHub organization as a way to manage access to our cloud computing resources. In order for this to work each person must have public, rather than private membership in the geohackweek organization.
 
-First, navigate to the "People" tab on the [ICESat-2hackweek](https://github.com/icesat-2hackweek) GitHub organization:
+First, navigate to the "People" tab on the [geohackweek](https://github.com/geohackweek) GitHub organization:
 
 <br>
 <img src="../files/images/private-github.png" width = "400" style="border:2px solid black">
@@ -74,7 +74,7 @@ The steps for doing this are also well documented on [this](https://help.github.
 
 ### How will GitHub repositories be structured?
 
-When you click on the "Repositories" tab in the [ICESat-2hackweek](https://github.com/icesat-2hackweek) GitHub Organization you will see a list of names, each of which links to a separate GitHub repository:
+When you click on the "Repositories" tab in the [geohackweek](https://github.com/geohackweek) GitHub Organization you will see a list of names, each of which links to a separate GitHub repository:
 
 
 <br>

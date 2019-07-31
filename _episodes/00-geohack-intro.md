@@ -1,6 +1,6 @@
 ---
 
-title: "Intro and Preparation for ICESat-2 Hackweek"
+title: "Intro and Preparation for Geohackweek"
 teaching: 5
 exercises: 0
 questions:
@@ -20,7 +20,7 @@ keypoints:
 
 ### Overview
 
-Welcome to the Cryospheric Sciences with ICESat-2 hackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://www.pnas.org/content/115/36/8872) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
+Welcome to Geohackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://www.pnas.org/content/115/36/8872) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
 
 <br>
 <img src="../files/images/hackweek-mission.png" width = "600" style="border:2px solid black">
@@ -51,7 +51,7 @@ If you do not have a laptop, please contact us and we might be able to loan you 
 
 ### Will I need to learn a specific programming language to participate?
 
-We welcome all participants regardless of their programming background. In order to teach our content in a consistent way we need to select one programming languge. We have chosen Python because it is free and open source, and has many libraries suitable for efficient manipulation of ICESat-2 data. 
+We welcome all participants regardless of their programming background. In order to teach our content in a consistent way we need to select one programming languge. We have chosen Python because it is free and open source, and has many libraries suitable for efficient manipulation of geospatial data. 
 
 If you're new to Python, here are some excellent resources we recommend working through in advance of our event:
 
@@ -65,11 +65,10 @@ If you're a Python expert, we hope you can use this event as an opportunity to s
 
 We require all participants to work through the next 4 lessons in advance of our event. The lessons are brief and will ensure that we are all set up and ready to work when we arrive.
 
-* [Lesson 1](https://icesat-2hackweek.github.io/preliminary/01-Git-setup): setting up a GitHub account
-* [Lesson 2](https://icesat-2hackweek.github.io/preliminary/02-JupyterHub-basics): connecting to our shared cloud computing environment
-* [Lesson 3](https://icesat-2hackweek.github.io/preliminary/03-conda-basics): installing Python on your laptop
-* [Lesson 4](https://icesat-2hackweek.github.io/preliminary/04-Earthdata): getting a NASA Earthdata login
+* [Lesson 1](https://geohackweek.github.io/preliminary/01-Git-setup): setting up a GitHub account
+* [Lesson 2](https://geohackweek.github.io/preliminary/02-JupyterHub-basics): connecting to our shared cloud computing environment
+* [Lesson 3](https://geohackweek.github.io/preliminary/03-conda-basics): installing Python on your laptop
 
-### How do I ask questions about the ICESat-2 Hackweek
+### How do I ask questions about Geohackweek
 If you have technical or general questions about the Hackweek. Please use the General channel on [Slack](https://icesat2hackweek2019.slack.com/messages/CDQFBU571/)
 
