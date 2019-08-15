@@ -86,5 +86,5 @@ Each repository is a container for a specific subset of material for this event.
 ### How do I learn more?
 
 We encourage you to start practicing with Git and GitHub in advance of this event. Our tutorials will follow [this](https://berkeley-stat159-f17.github.io/stat159-f17/lectures/01-git/Git-Tutorial..html) lesson. Additional tutorial content from our past hackweeks is [here](https://geohackweek.github.io/Introductory/03-git-tutorial/). As always, feel free to post questions on
-[Slack](https://icesat2hackweek2019.slack.com/messages/CDQFBU571/) if you run into any difficulties!
+[Slack](https://geohackweek2019.slack.com/messages/CDQFBU571/) if you run into any difficulties!
 
