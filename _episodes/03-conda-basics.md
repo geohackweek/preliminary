@@ -10,7 +10,7 @@ objectives:
 - Get conda installed!
 keypoints:
 - "everyone is encouraged to arrive with Python installed on their laptop for the project work"
-- "there are several different versions of Python, but we will use Python 3.6 for this hackathon"
+- "there are several different versions of Python, but we will use Python 3.7 for this hackathon"
 - "Conda package manager will be used to install Python and other libraries"
 - "Conda can be installed in two ways (Anaconda and Miniconda)"
 - "Conda package manager works across systems"
