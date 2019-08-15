@@ -27,7 +27,7 @@ We will encourage you to use our shared resources for all the tutorials, and you
 
 ### How do I access the shared cloud environment?
 
-Access to our shared cloud environment is easy. Just click on [https://icesat2.pangeo.io](https://icesat2.pangeo.io)
+Access to our shared cloud environment is easy. Just click on [https://nasa.pangeo.io](https://nasa.pangeo.io)
 <br>
 <br>
 <img src="../files/images/pangeo-opening.png" width = "500" style="border:2px solid black">
@@ -41,6 +41,16 @@ Assuming you set up your GitHub credentials correctly (see the previous lesson),
 <img src="../files/images/pangeo-loading.png" width = "500" style="border:2px solid black">
 <br>
 <br>
+
+Next, you will be shown a list of different "Spawner Options". Choose the second one in the list labeled **GeoHackWeek 2019**:
+
+
+<br>
+<br>
+<img src="../files/images/spawner.png" width = "500" style="border:2px solid black">
+<br>
+<br>
+
 
 It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment:
 
@@ -114,7 +124,7 @@ After issuing the Git clone command you should see something like this:
 
 When you are finished working for the day it is important to explicitly log out of your Pangeo session. The reason for this is it will save us a bit of money! When you keep a session active it uses up AWS resources and keeps a series of virtual machines deployed. 
 
-To stop the server, navigate to "Hub --> Control Panel" and then click the "Stop my server" button:
+To stop the server, navigate to "File --> Hub Control Panel" and then click the "Stop my server" button:
 
 <br>
 <br>
