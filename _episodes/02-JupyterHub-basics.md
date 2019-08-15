@@ -27,18 +27,11 @@ We will encourage you to use our shared resources for all the tutorials, and you
 
 ### How do I access the shared cloud environment?
 
-Access to our shared cloud environment is easy. Just click on [https://nasa.pangeo.io](https://nasa.pangeo.io)
+Access to our shared cloud environment is easy. Just click on [https://nasa.pangeo.io](https://nasa.pangeo.io). Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
+
 <br>
 <br>
 <img src="../files/images/pangeo-opening.png" width = "500" style="border:2px solid black">
-<br>
-<br>
-
-Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
-
-<br>
-<br>
-<img src="../files/images/pangeo-loading.png" width = "500" style="border:2px solid black">
 <br>
 <br>
 
@@ -52,7 +45,15 @@ Next, you will be shown a list of different "Spawner Options". Choose the second
 <br>
 
 
-It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment:
+You will see this progress bar (it may take a bit of time): 
+
+<br>
+<br>
+<img src="../files/images/pangeo-loading.png" width = "500" style="border:2px solid black">
+<br>
+<br>
+
+Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment:
 
 <br>
 <br>
