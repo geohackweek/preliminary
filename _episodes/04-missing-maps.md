@@ -1,13 +1,13 @@
 ---
 
 title: "Missing Maps Project"
-teaching: 15
-exercises: 0
+teaching: 5
+exercises: 10
 questions:
-- What is Missing Maps?
-- How do I sign up for a OSM account?
-- How do I find a HOTOSM task?
-- How do I use the editor and save my work?
+- "What is Missing Maps?"
+- "How do I sign up for a OSM account?"
+- "How do I find a HOTOSM task?"
+- "How do I use the editor and save my work?"
 objectives:
 - Gain familiarity with Missing Maps
 - Create a OpenStreetMap account
@@ -28,7 +28,7 @@ In this tutorial you will get set up with a HOTOSM account and learn how to cont
 
 ## Setting up your account
 
-1. Set up an account for OpenStreetMap
+### Set up an account for OpenStreetMap
 
 Please use a browser like Google, Chrome, or Safari.
 
@@ -37,7 +37,7 @@ Go to [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org=
 
 A confirmation email will be sent to the email you provided. Please log in to your email and confirm your new OSM account by clicking on the link provided.
 
-2. Select a HOTOSM task and area to map
+### Select a HOTOSM task and area to map
 
 * Go to [https://tasks.hotosm.org](https://tasks.hotosm.org/). 
 * Click Login in the top right corner and follow the prompts to grant access to your account. 
@@ -54,13 +54,13 @@ Now the list of tasks has been filtered to tasks similar to the one we will use 
 * Select a translucent 'Ready' square. If you didn't do so in an earlier step, you may need to edit your profile and add your contact details before you can proceed.
 * Switch to Map tab on the left next to the map and click the orange 'Start Mapping' button.
 
-3. Mapping instructions
+### Mapping instructions
 
 * Select an 'iD Editor' and 'START EDITOR'.
 * To add a building: click on the 'area' button and trace the building outline. Double-click to finish. Be sure to switch to the background imagery, according to the instructions of the task, by using the stacked layer symbol on the right of the map.
 * To classify the area: on the left side of the screen, click 'Building Features', then scroll down and click 'Building' again. The building you traced will turn red.
 
-4. Saving your work
+### Saving your work
 
 * Click the 'Save' button at the top right of the map area.
 * On the left side of the screen, click 'Upload' to confirm.
