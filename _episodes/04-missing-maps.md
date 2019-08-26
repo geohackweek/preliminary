@@ -17,7 +17,7 @@ objectives:
 keypoints:
 - You are all set up with a HOTOSM account and ready for the Missing Maps turorial on day 1 at Geohackweek 2019!
 - Later during the hackweek, we will revisit accessing these vector data through the OSM API and explore ways to automate digitizing features of interest using raster, vector and machine learning methods.
--We use the classification of buildings as a straight-forward example to teach data science skills that can be applied to any domain interested in classifying and analyzing features of interest (natural or man made) from imagery.
+- We use the classification of buildings as a straight-forward example to teach data science skills that can be applied to any domain interested in classifying and analyzing features of interest (natural or man made) from imagery.
 ---
 
 # Overview
