@@ -32,8 +32,7 @@ In this tutorial you will get set up with a HOTOSM account and learn how to cont
 
 Please use a browser like Google, Chrome, or Safari.
 
-Go to [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org=
-/user/new) and sign up for a OSM account.
+Go to [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new) and sign up for a OSM account.
 
 A confirmation email will be sent to the email you provided. Please log in to your email and confirm your new OSM account by clicking on the link provided.
 
