@@ -1,6 +1,6 @@
 ---
 
-title: "Getting set up with Git and GitGub"
+title: "Getting set up with Git and GitHub"
 teaching: 10
 exercises: 0
 questions:
