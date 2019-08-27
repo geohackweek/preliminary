@@ -10,7 +10,7 @@ questions:
 - "How do I use the editor and save my work?"
 objectives:
 - Gain familiarity with Missing Maps
-- Create a OpenStreetMap account
+- Create an OpenStreetMap account
 - Find a suitable HOTOSM task
 - Become familiar with the digitization editor
 - Make a contribution to open-source data
@@ -22,9 +22,9 @@ keypoints:
 
 # Overview
 
-[Missing Maps](https://www.missingmaps.org/) is an open, collaborative project in which you can help to map areas where humanitarian organizations are trying to meet the needs of vulnerable people. Mapping tasks are managed by the Humanitarian OpenStreetMap Team [HOTOSM](https://www.hotosm.org/) platform, which we will use to hand-digitize infrastructure from satellite imagery.
+[Missing Maps](https://www.missingmaps.org/) is an open, collaborative project in which you can help map areas where humanitarian organizations are trying to meet the needs of vulnerable people. Mapping tasks are managed by the Humanitarian OpenStreetMap Team [HOTOSM](https://www.hotosm.org/) platform, which we will use to hand-digitize infrastructure from satellite imagery.
 
-In this tutorial you will get set up with a HOTOSM account and learn how to contribute to open-source vector data. These data will become immediately available to the public and available via the OSM API.
+In this tutorial you will get set up with a HOTOSM account and contribute to open-source vector data. These data will become immediately available to the public and via the OSM API.
 
 ## Setting up your account
 
@@ -34,13 +34,13 @@ Please use a browser like Google, Chrome, or Safari.
 
 Go to [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new) and sign up for a OSM account.
 
-A confirmation email will be sent to the email you provided. Please log in to your email and confirm your new OSM account by clicking on the link provided.
+A confirmation email will be sent to the email you provided. Please log in to your email and confirm your new OSM account by clicking on the confirmation link.
 
 ### Select a HOTOSM task and area to map
 
 * Go to [https://tasks.hotosm.org](https://tasks.hotosm.org/). 
 * Click Login in the top right corner and follow the prompts to grant access to your account. 
-* add your email contact details to your profile. 
+* Add your email contact details to your profile. 
 * Click 'Start Mapping' in the center of the screen. 
 * From the first dropdown menu on the left select Mapping Difficulty: "Beginner". 
 * Further down on the left, under Type(s) of mapping, check 'Buildings'.
@@ -56,7 +56,7 @@ Now the list of tasks has been filtered to tasks similar to the one we will use 
 ### Mapping instructions
 
 * Select an 'iD Editor' and 'START EDITOR'.
-* To add a building: click on the 'area' button and trace the building outline. Double-click to finish. Be sure to switch to the background imagery, according to the instructions of the task, by using the stacked layer symbol on the right of the map.
+* To add a building: click on the 'area' button and trace the building outline. Double-click to finish. Be sure to switch to the background imagery intended for the task by using the stacked layer symbol on the right of the map.
 * To classify the area: on the left side of the screen, click 'Building Features', then scroll down and click 'Building' again. The building you traced will turn red.
 
 ### Saving your work
